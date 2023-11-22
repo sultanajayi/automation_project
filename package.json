@@ -1,0 +1,22 @@
+{
+  "name": "automation_project",
+  "version": "1.0.0",
+  "description": "Automation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultanajayi/automation_project.git"
+  },
+  "author": "Sultan and Lukman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanajayi/automation_project/issues"
+  },
+  "homepage": "https://github.com/sultanajayi/automation_project#readme",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
