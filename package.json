@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sultanajayi/automation_project#readme",
   "dependencies": {
-    "cypress": "^12.17.3"
+    "cypress": "^12.17.4"
   }
 }
